@@ -1,3 +1,12 @@
+# Full Stack Authorization Web Application
+
+### Goal: Create a web application that allowed users to signup and login. Once user is logged in, tney have the ability to submit messages on the profile page, in which they can either upvote, downvote, or delete messages. The files are served up from a MongoDB database. 
+
+*Project completed using HTML, CSS, Javascript, Node.js, Express.js, and MongoDB. (Project inspired by Grammy-Award winning artist 21 Savage)*
+
+![homepage](homepage.png)
+![profilepage](profileimg.png)
+
 ## Installation
 
 1. Clone repo
